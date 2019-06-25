@@ -1,0 +1,15 @@
+{
+  "try_count": 10,
+  "interval_second": 1,
+
+  "base_url": "https://www22.muenchen.de/termin/index.php?loc=FS",
+  "termin_type": "FS Fahrerlaubnis erstmalig",
+
+  "salutation": "Herr",
+  "name": "Your Name",
+  "birthday": "30.01.1993",
+  "email": "hi@changkun.us",
+
+  "desire_start": "2019-07-05",
+  "desire_end": "2019-10-30"
+}

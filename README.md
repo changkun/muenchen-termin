@@ -11,6 +11,10 @@ Want more feature? Submit an [issue](https://github.com/changkun/muenchen-termin
 
 ## Usage
 
+Here is a slides for this service: [Google Slides](https://docs.google.com/presentation/d/1g1H4Pifkc4RnH3Ox-KDB_V0FJ63bCCyK9-LJR5PHxsc/edit?usp=sharing).
+
+But, TL;DR:
+
 - Step 0: install requirements
 
 ```bash

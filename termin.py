@@ -155,7 +155,8 @@ def main():
         print('start book slot...')
         service.select_termin()
         service.book_termin()
-        break
+        return
+    print('cannot found termin.')
 
 if __name__ == "__main__":
     main()

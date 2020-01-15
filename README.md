@@ -31,4 +31,4 @@ python3 termin.py
 
 ## License
 
-MIT &copy; [Changkun Ou](https://changkun.de)
+GNU GPLv3 &copy; [Changkun Ou](https://changkun.de)
